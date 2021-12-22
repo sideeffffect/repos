@@ -1198,6 +1198,7 @@
 - shankarshastri/scala-proj-template
 - shopstic/chopsticks
 - sideeffffect/sbt-decent-scala
+- sideeffffect/scala-rust-interop
 - sideeffffect/zio-doobie
 - sideeffffect/zio-io
 - sideeffffect/zio-testcontainers
